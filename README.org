@@ -18,8 +18,25 @@ React is and when you should use it
 - [[https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.wjhld51pu][bumpers.fm]]
 - [[http://techblog.netflix.com/2015/01/netflix-likes-react.html][Netflix]]
 - [[https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react][Pinterest]]
+- Facebook/Instagram/Whatsapp all use React but I can't seem to find
+  any articles about it
 
 ** Writing & Testing a Basic App (Apprentice)
+*** Tasks
+
+- install Node if you haven't already
+- install [[https://github.com/facebookincubator/create-react-app][create-react-app]] and generate a starter project
+- build a small application like [[http://todomvc.com/][TodoMVC]]
+- write unit tests for your application
+
+*** Resources
+
+- [[https://github.com/facebookincubator/create-react-app][create-react-app]]
+- [[http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/][React for Designers: React.js Introduction For People Who Know Just Enough jQuery To Get By]]
+- [[https://scotch.io/tutorials/create-a-simple-to-do-app-with-react][scotch.io: Create a Simple To-Do App With React]]
+- [[https://github.com/airbnb/enzyme][enzyme]]
+- [[https://simonsmith.io/unit-testing-react-components-without-a-dom/][Unit Testing React Components Without a DOM]]
+
 ** State Management with Flux & Redux (Adept)
 ** Server-Side Rendering (Expert)
 ** Hacking the Virtual DOM (Master)
