@@ -1,0 +1,26 @@
+* React Public Path
+
+This is a draft for an X-Team public path for developers who want to
+get started with [[https://facebook.github.io/react/][React]]. Its structure is based on the [[http://paths.x-team.com/docker][Docker public
+path]].
+
+** React: What, When, and Why (Novice)
+
+This is "step 0" - no tasks here, just some background info on what
+React is and when you should use it
+
+*** Resources
+**** [[https://facebook.github.io/react/blog/2013/06/05/why-react.html][Pete Hunt: Why did we build React? (2013)]]
+**** [[https://www.youtube.com/watch?v=DgVS-zXgMTk][Pete Hunt: React - Rethinking Best Practices (2013)]]
+**** Testimonials from companies that use React
+
+- [[http://devnacho.com/2016/03/20/how-airbnb-uses-react/][Airbnb]]
+- [[https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.wjhld51pu][bumpers.fm]]
+- [[http://techblog.netflix.com/2015/01/netflix-likes-react.html][Netflix]]
+- [[https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react][Pinterest]]
+
+** Writing & Testing a Basic App (Apprentice)
+** State Management with Flux & Redux (Adept)
+** Server-Side Rendering (Expert)
+** Hacking the Virtual DOM (Master)
+
